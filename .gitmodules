@@ -1,20 +1,12 @@
-
 [submodule "bimerr-KPI"]
 	path = bimerr-KPI
 	url = https://github.com/oeg-upm/bimerr-KPI
-
-
+	branch = master
 [submodule "bimerr-senML"]
 	path = bimerr-senML
 	url = https://github.com/oeg-upm/bimerr-senML
-
-
+	branch = master
 [submodule "bimerr-occupant-behavior"]
 	path = bimerr-occupant-behavior
 	url = https://github.com/oeg-upm/bimerr-occupant-behavior
-
-
-[submodule "bimerr-weather"]
-	path = bimerr-weather
-	url = https://github.com/oeg-upm/bimerr-weather
-
+	branch = master
